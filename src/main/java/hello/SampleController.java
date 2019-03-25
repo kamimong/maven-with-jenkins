@@ -48,7 +48,7 @@ public class SampleController {
                 userMoney = calcUserMoney(userMoney, totalPrice);
             }
             else if (buttonn == 2) {
-                totalPrice += calcTotalPrice(1500, 1);
+                totalPrice += calcTotalPrice(1600, 1);
                 userMoney = calcUserMoney(userMoney, totalPrice);
             }
             else if (button == 3) {
